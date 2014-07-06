@@ -13,8 +13,6 @@
 
 ## リポジトリー一覧
 
-（担当言語の参加者のリポジトリーに置き換える。）
-
   * [BLThunder1991](https://github.com/BLThunder1991/BLThunder1991-sezemi-2014-readable-code-2)
   * [@amiq11](https://github.com/amiq11/amiq11-sezemi-2014-readable-code-2)
   * [20tkts14](https://github.com/20tkts14/20tkts14-sezemi-2014-readable-code-2)
