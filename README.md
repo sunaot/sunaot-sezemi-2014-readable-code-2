@@ -9,11 +9,7 @@
 
 ## 言語
 
-  * Java
-  * Ruby
   * C
-  * Python
-  * PHP
 
 ## リポジトリー一覧
 
